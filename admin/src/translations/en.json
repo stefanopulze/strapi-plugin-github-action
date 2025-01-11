@@ -1,0 +1,7 @@
+{
+  "github-action.description": "Run github action",
+  "github-action.header.title": "Github Action",
+  "github-action.header.subtitle": "Trigger action from strapi",
+  "github-action.invalid-configuration.title": "Invalid configuration",
+  "github-action.invalid-configuration.description": "Please check your environment configuration. Some props are invalid."
+}
