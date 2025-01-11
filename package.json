@@ -64,7 +64,7 @@
     "displayName": "Github Action",
     "description": ""
   },
-  "name": "github-action",
+  "name": "strapi-plugin-github-action",
   "description": "Run Github action from Strapi",
   "license": "MIT",
   "author": "Stefano <stefano.pulze87@gmail.com>",
