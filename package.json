@@ -20,7 +20,9 @@
     }
   },
   "files": [
-    "dist"
+    "dist/",
+    "package.json",
+    "README.md"
   ],
   "scripts": {
     "build": "strapi-plugin build",
@@ -65,5 +67,17 @@
   "name": "github-action",
   "description": "Run Github action from Strapi",
   "license": "MIT",
-  "author": "Stefano <stefano.pulze87@gmail.com>"
+  "author": "Stefano <stefano.pulze87@gmail.com>",
+  "maintainers": [
+    {
+      "name": "Stefano Pulze",
+      "email": "stefano.pulze87@gmail.com",
+      "url": "https://stefanopulze.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanopulze/strapi-plugin-github-action"
+  },
+  "homepage": "https://github.com/stefanopulze/strapi-plugin-github-action#readme"
 }
